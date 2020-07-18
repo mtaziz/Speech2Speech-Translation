@@ -15,8 +15,8 @@ audiofile = 'test.mp3'
 #Initialize credentials
 
 speech_to_text = SpeechToTextV1(
-    iam_apikey='3I5oGXvgRKobstOJqRdqJocu6Qbyfib0BVZ7dyRyZNDW',
-    url='https://api.eu-gb.speech-to-text.watson.cloud.ibm.com/instances/aa0dcee3-34bb-452f-ba41-b70c4432d3a6'
+    iam_apikey='YOUR_API_KEY',
+    url='URL'
 )
 
 
