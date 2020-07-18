@@ -1,5 +1,7 @@
 # Speech2Speech-Translation
-Final Year Project for S2S Translation
+Final Year Project:
+
+S2S Translation
 
 
 Paper published in 7th Volume of IRJET Issue 1:  
